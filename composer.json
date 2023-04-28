@@ -1,0 +1,14 @@
+{
+    "name": "app/php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lhizel Tabual"
+        }
+    ],
+    "require": {}
+}
